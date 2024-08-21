@@ -2,7 +2,7 @@
 
 This is a responsive Project Management Tool that allows you to manage projects, add tasks, assign assignees, and track the progress of your projects in an intuitive and user-friendly interface.
 
-![Project Management Tool](./assets/project_screenshot1.png)
+![Project Management Tool](../project-management-tool/src/assets/image.png)
 
 ## Features
 
